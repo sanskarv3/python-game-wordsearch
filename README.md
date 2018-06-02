@@ -3,6 +3,7 @@
 <a href="url"><img src="http://asetalias.in/images/logo-dark.png" align="left" height="100" width="250" ></a>
 
 
+
 ## ALiAS: Amity Linux Assistance Sapience.
 
   - The following repo contains the source code for the native app of Amity Linux Assistance Sapience.
@@ -20,7 +21,9 @@
 ## Instructions-
 
 ### 1. Clone repo in your system
+
 ```git clone https://github.com/omi10859/ALiasNativeApp```
+
 see [How to install and Use GIT]()
 
 ### 2. Install [NODE](https://nodejs.org/en/download/) 
